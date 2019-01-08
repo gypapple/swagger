@@ -1,0 +1,4 @@
+db.url=jdbc:mysql://120.77.240.93:3306/abc?useSSL=false&serverTimezone=GMT
+db.driver=com.mysql.cj.jdbc.Driver
+db.user=root
+db.pass=123456
